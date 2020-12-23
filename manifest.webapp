@@ -3,20 +3,20 @@
   "name": "Chess Play",
   "description": "App to play chess",
   "type": "web",
-  "launch_path": "/your/repository/index.html",
+  "launch_path": "https://githubvishwas.github.io/kiaoschess/index.html",
   "icons": {
-    "56": "/your/repository/icons/ic_Appname_56.png",
-    "112": "/your/repository/icons/ic_Appname_112.png"
+    "56": "https://githubvishwas.github.io/kiaoschess/icons/icon56x56.png",
+    "112": "https://githubvishwas.github.io/kiaoschess/icons/icon112x112.png"
   },
   "developer": {
-    "name": "Your Name",
-    "url": "http://yourawesomeapp.com"
+    "name": "Vishwas Bhat",
+    "url": ""
   },
   "locales": {
     "en-US": {
-      "name": "KaiOS App",
-      "subtitle": "Short description for the user",
-      "description": "Brief description of your app"
+      "name": "Chess Play",
+      "subtitle": "Play and practise chess!",
+      "description": "App to play chess"
     }
   },
   "default_locale": "en-US"
