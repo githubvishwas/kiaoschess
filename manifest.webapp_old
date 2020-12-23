@@ -1,0 +1,15 @@
+{
+  "name": "Chess Play",
+  "description": "Chess for Kia OS",
+  "launch_path": "/index.html",
+  "icons": {
+    "16": "/icons/icon16x16.png",
+    "48": "/icons/icon48x48.png",
+    "60": "/icons/icon60x60.png",
+    "128": "/icons/icon128x128.png"
+  },
+  "developer": {
+    "name": "Vishwas Bhat",
+    "url": "http://tryit.in"
+  }
+}
