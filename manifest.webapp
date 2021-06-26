@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "name": "Chess Play",
+  "name": "Chess Local",
   "description": "App to play chess",
   "type": "web",
   "launch_path": "https://githubvishwas.github.io/kiaoschess/index.html",
@@ -14,7 +14,7 @@
   },
   "locales": {
     "en-US": {
-      "name": "Chess Play",
+      "name": "Chess Local",
       "subtitle": "Play and practise chess!",
       "description": "App to play chess"
     }

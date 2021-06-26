@@ -87,10 +87,11 @@ var onDrop = function(source, target) {
 
   // illegal move
   if (move === null) return 'snapback';
-
+	moveAudio.play()
   updateStatus();
 
     window.setTimeout(makeBestMove, 250);
+	moveAudio.play()
 };
 var makeBestMove = function () {
     if (game.game_over()) {
